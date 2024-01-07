@@ -57,4 +57,4 @@ The Bank Management System project was developed as a learning exercise and is n
 
 ## Contact
 
-For questions or inquiries, please contact the project maintainers: [Dima Abdallah](dma197@student.bau.edu.lb) - [Jana Muslimani](jhm431@student.bau.edu.lb).
+For questions or inquiries, please contact the project maintainers: [Dima Abdallah] (dma197@student.bau.edu.lb) - [Jana Muslimani] (jhm431@student.bau.edu.lb).
