@@ -57,6 +57,6 @@ The Bank Management System project was developed as a learning exercise and is n
 
 ## Contact
 
-For questions or inquiries, please contact the project maintainer: [Your Name](mailto:your-email@example.com).
+For questions or inquiries, please contact the project maintainers: [Dima Abdallah](dma197@student.bau.edu.lb) - [Jana Muslimani] (jhm431@student.bau.edu.lb).
 
 That concludes the documentation for the Bank Management System project. Feel free to customize it according to your project's specific requirements and add any additional sections or information as needed.
