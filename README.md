@@ -1,7 +1,6 @@
 # Bank Management System
  Basic python project, usinng GUI to create a Bank Management System.
 
-Certainly! Here's a sample documentation for the Bank Management System project:
 
 # Bank Management System
 
@@ -29,19 +28,6 @@ To run the Bank Management System, you need to have the following installed:
 - Tkinter: Tkinter is a standard Python interface to the Tk GUI toolkit and is used for building the graphical user interface of the application.
 - PIL (Python Imaging Library): PIL is used to handle image files in the application.
 
-## Getting Started
-
-1. Clone the repository: Clone the Bank Management System repository from GitHub to your local machine.
-
-2. Install dependencies: Make sure you have Python 3 and the required libraries (Tkinter and PIL) installed.
-
-3. Run the application: Open a terminal or command prompt, navigate to the project directory, and run the following command:
-
-   ````
-   python Bank_Management_System.py
-   ```
-
-   This will launch the Bank Management System application.
 
 ## Usage
 
